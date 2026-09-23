@@ -1,0 +1,6 @@
+{
+  "name": "CHINAR FLORA — Bakı Müəllif Floristika Butiki",
+  "description": "Bakının ən seçkin botanika butiki: zərif çiçək buketləri, məxmər qutuda güllər, fərdi kalliqrafik təbriklər və 2 saat ərzində sürətli çatdırılma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
